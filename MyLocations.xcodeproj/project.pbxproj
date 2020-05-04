@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		B49BFAC324431202001A389E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49BFAC224431202001A389E /* AppDelegate.swift */; };
 		B49BFAC524431202001A389E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49BFAC424431202001A389E /* SceneDelegate.swift */; };
-		B49BFAC724431202001A389E /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49BFAC624431202001A389E /* FirstViewController.swift */; };
+		B49BFAC724431202001A389E /* CurrentLocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49BFAC624431202001A389E /* CurrentLocationViewController.swift */; };
 		B49BFAC924431202001A389E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B49BFAC824431202001A389E /* SecondViewController.swift */; };
 		B49BFACC24431202001A389E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B49BFACA24431202001A389E /* Main.storyboard */; };
 		B49BFACF24431202001A389E /* MyLocations.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B49BFACD24431202001A389E /* MyLocations.xcdatamodeld */; };
@@ -21,7 +21,7 @@
 		B49BFABF24431202001A389E /* MyLocations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyLocations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B49BFAC224431202001A389E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B49BFAC424431202001A389E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		B49BFAC624431202001A389E /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		B49BFAC624431202001A389E /* CurrentLocationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentLocationViewController.swift; sourceTree = "<group>"; };
 		B49BFAC824431202001A389E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		B49BFACB24431202001A389E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B49BFACE24431202001A389E /* MyLocations.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyLocations.xcdatamodel; sourceTree = "<group>"; };
@@ -62,7 +62,7 @@
 			children = (
 				B49BFAC224431202001A389E /* AppDelegate.swift */,
 				B49BFAC424431202001A389E /* SceneDelegate.swift */,
-				B49BFAC624431202001A389E /* FirstViewController.swift */,
+				B49BFAC624431202001A389E /* CurrentLocationViewController.swift */,
 				B49BFAC824431202001A389E /* SecondViewController.swift */,
 				B49BFACA24431202001A389E /* Main.storyboard */,
 				B49BFAD024431204001A389E /* Assets.xcassets */,
@@ -146,7 +146,7 @@
 			files = (
 				B49BFACF24431202001A389E /* MyLocations.xcdatamodeld in Sources */,
 				B49BFAC924431202001A389E /* SecondViewController.swift in Sources */,
-				B49BFAC724431202001A389E /* FirstViewController.swift in Sources */,
+				B49BFAC724431202001A389E /* CurrentLocationViewController.swift in Sources */,
 				B49BFAC324431202001A389E /* AppDelegate.swift in Sources */,
 				B49BFAC524431202001A389E /* SceneDelegate.swift in Sources */,
 			);
